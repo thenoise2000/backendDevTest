@@ -1,0 +1,5 @@
+package com.MyAplication.error;
+
+public class ProductException {
+
+}

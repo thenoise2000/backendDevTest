@@ -1,0 +1,5 @@
+package com.MyAplication.service;
+
+public class ProductService {
+
+}
