@@ -1,0 +1,5 @@
+package com.MyAplication.Utils;
+
+public class RestTemplate {
+
+}

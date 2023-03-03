@@ -1,0 +1,11 @@
+package com.MyAplication.service;
+
+import java.util.List;
+
+import com.MyAplication.error.ProductException;
+import com.MyAplication.model.Product;
+
+public interface SimilarProductService {
+
+	 List<Product> getSimilarProducts(String productId) throws ProductException;
+}

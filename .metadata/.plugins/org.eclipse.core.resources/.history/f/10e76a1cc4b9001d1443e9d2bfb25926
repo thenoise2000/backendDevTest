@@ -1,0 +1,17 @@
+package com.MyAplication.service;
+
+import java.util.List;
+
+import com.MyAplication.model.Product;
+
+public class ConsultarProdcutImpl implements ConsultarProduct {
+	
+	
+
+	@Override
+	public List<Product> consultarProduct(int idProduct) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

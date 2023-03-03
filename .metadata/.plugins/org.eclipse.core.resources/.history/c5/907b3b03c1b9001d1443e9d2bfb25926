@@ -1,0 +1,11 @@
+package com.MyAplication.service;
+
+import java.util.List;
+
+import com.MyAplication.model.Product;
+
+public interface ExternalApiClient {
+
+	 Product getProductDetail(String productId);
+	 List<String> getSimilarProductIds(String productId);
+}

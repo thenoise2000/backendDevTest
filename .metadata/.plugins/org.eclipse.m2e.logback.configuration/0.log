@@ -718,3 +718,123 @@ Caused by: java.lang.Exception: Resource '/MyAPP/pom.xml' does not exist.
 2023-03-01 18:23:22,199 [Worker-10: Updating Maven Dependencies] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-03-01 18:23:22,394 [Worker-10: Updating Maven Dependencies] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-03-01 18:23:22,423 [Worker-10: Updating Maven Dependencies] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-02 11:25:01,549 [Worker-39: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 11:25:01,688 [Worker-39: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 11:25:01,698 [Worker-39: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 07:30:40,242 [Worker-59: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 07:30:40,698 [Worker-59: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 07:30:40,712 [Worker-59: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 07:33:23,760 [Worker-66: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 07:33:24,063 [Worker-66: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 07:33:24,069 [Worker-66: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 07:34:41,918 [Worker-67: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 07:34:41,970 [Worker-67: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 07:34:41,977 [Worker-67: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 07:36:42,661 [Worker-66: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 07:36:42,941 [Worker-66: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 07:36:42,947 [Worker-66: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 07:39:35,044 [Worker-69: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 07:39:35,150 [Worker-69: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 07:39:35,157 [Worker-69: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 07:50:23,836 [Worker-64: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 07:50:23,858 [Worker-64: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 07:50:23,865 [Worker-64: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 07:50:57,487 [Worker-73: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 07:50:57,569 [Worker-73: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 07:50:57,576 [Worker-73: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 07:52:00,035 [Worker-64: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 07:52:00,050 [Worker-64: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 07:52:00,073 [Worker-64: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 08:34:21,441 [Worker-85: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 08:34:21,512 [Worker-85: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 08:34:21,516 [Worker-85: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 08:36:14,941 [Worker-85: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 08:36:15,055 [Worker-85: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 08:36:15,064 [Worker-85: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 08:37:01,407 [Worker-84: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 08:37:01,684 [Worker-84: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 08:37:01,694 [Worker-84: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 08:39:15,398 [Worker-86: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 08:39:15,470 [Worker-86: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 08:39:15,478 [Worker-86: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 08:42:22,543 [Worker-88: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 08:42:22,564 [Worker-88: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 08:42:22,571 [Worker-88: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 08:43:13,105 [Worker-95: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 08:43:13,170 [Worker-95: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 08:43:13,181 [Worker-95: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 09:00:09,764 [Worker-92: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 09:00:09,807 [Worker-92: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 09:00:09,814 [Worker-92: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 09:00:50,517 [Worker-103: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 09:00:50,676 [Worker-103: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 09:00:50,694 [Worker-103: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 09:03:43,350 [Worker-98: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 09:03:43,434 [Worker-98: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 09:03:43,443 [Worker-98: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 09:22:19,750 [Worker-104: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 09:22:19,781 [Worker-104: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 09:22:19,789 [Worker-104: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 09:27:07,407 [Worker-115: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 09:27:07,472 [Worker-115: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 09:27:07,483 [Worker-115: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 09:35:45,613 [Worker-120: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 09:35:45,907 [Worker-120: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 09:35:45,927 [Worker-120: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 09:50:40,301 [Worker-121: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 09:50:40,331 [Worker-121: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 09:50:40,339 [Worker-121: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 09:51:43,615 [Worker-123: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 09:51:43,639 [Worker-123: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 09:51:43,651 [Worker-123: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 09:52:28,028 [Worker-120: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 09:52:28,056 [Worker-120: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 09:52:28,081 [Worker-120: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 09:54:30,678 [Worker-125: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 09:54:30,797 [Worker-125: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 09:54:30,840 [Worker-125: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 09:55:25,289 [Worker-120: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 09:55:25,946 [Worker-120: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 09:55:25,954 [Worker-120: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 09:56:45,619 [Worker-123: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 09:56:45,755 [Worker-123: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 09:56:45,759 [Worker-123: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 09:57:34,380 [Worker-123: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 09:57:34,640 [Worker-123: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 09:57:34,647 [Worker-123: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 10:01:17,569 [Worker-122: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 10:01:18,013 [Worker-122: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 10:01:18,021 [Worker-122: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 10:03:47,726 [Worker-131: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 10:03:47,865 [Worker-131: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 10:03:47,869 [Worker-131: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 10:05:40,070 [Worker-131: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 10:05:40,251 [Worker-131: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 10:05:40,260 [Worker-131: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 10:06:42,880 [Worker-131: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 10:06:43,048 [Worker-131: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 10:06:43,052 [Worker-131: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 10:08:48,196 [Worker-137: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 10:08:48,381 [Worker-137: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 10:08:48,389 [Worker-137: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 10:10:33,450 [Worker-138: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 10:10:33,669 [Worker-138: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 10:10:33,679 [Worker-138: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 10:15:10,996 [Worker-137: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 10:15:11,118 [Worker-137: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 10:15:11,128 [Worker-137: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 10:15:37,159 [Worker-138: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 10:15:37,174 [Worker-138: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 10:15:37,179 [Worker-138: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 10:17:16,800 [Worker-138: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 10:17:16,928 [Worker-138: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 10:17:16,941 [Worker-138: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 10:22:49,374 [Worker-139: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 10:22:49,752 [Worker-139: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 10:22:49,759 [Worker-139: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 10:25:18,227 [Worker-137: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 10:25:18,527 [Worker-137: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 10:25:18,539 [Worker-137: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources
+2023-03-03 10:25:41,715 [Worker-126: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 10:25:41,800 [Worker-126: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 10:25:41,808 [Worker-126: Launching MyAplication - MyAplicationApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alejandro\Documents\workspace\backendDevTest-main\MyAplication\src\test\resources

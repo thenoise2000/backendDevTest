@@ -6,14 +6,8 @@
   <path value="C:/Users/Alejandro/.m2/repository/org/springframework/boot/spring-boot-test-autoconfigure/3.0.3/spring-boot-test-autoconfigure-3.0.3.jar"/>
   <path value="C:/Users/Alejandro/.m2/repository/org/springframework/spring-webmvc/6.0.5/spring-webmvc-6.0.5.jar">
    <libraries>
-    <library class="tld">
-     <id class="model-object"
-      path="FileSystems/lib-spring-webmvc-6.0.5.jar/meta-inf/spring-form.tld" project="MyAPP"/>
-    </library>
-    <library class="tld">
-     <id class="model-object"
-      path="FileSystems/lib-spring-webmvc-6.0.5.jar/meta-inf/spring.tld" project="MyAPP"/>
-    </library>
+    <library class="tld"/>
+    <library class="tld"/>
    </libraries>
   </path>
   <path value="C:/Users/Alejandro/.m2/repository/org/springframework/data/spring-data-rest-core/4.0.2/spring-data-rest-core-4.0.2.jar"/>
@@ -87,6 +81,7 @@
   <path value="C:/Users/Alejandro/.m2/repository/org/apache/logging/log4j/log4j-to-slf4j/2.19.0/log4j-to-slf4j-2.19.0.jar"/>
  </paths>
  <validation>
+  <core validator-id="jboss.cdi.core"/>
   <el/>
  </validation>
  <aliases/>

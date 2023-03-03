@@ -1,0 +1,59 @@
+package com.MyAplication.service;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Collectors;
+
+import com.MyAplication.Utils.Urls;
+import com.MyAplication.convert.Convert;
+import com.MyAplication.error.ProductException;
+import com.MyAplication.model.Product;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.core.ParameterizedTypeReference;
+import org.springframework.http.HttpMethod;
+import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Service;
+import org.springframework.web.client.RestTemplate;
+
+@Service
+public class ProductService implements SimilarProduct {
+
+	
+	 @Value("${similar-products-service-url}")
+	    private String similarProductsServiceUrl;
+
+	    @Value("${product-products-id-service-url}")
+	    private String productDetailsServiceUrl;
+	    @Autowired
+	    private RestTemplate restTemplate;
+
+
+	    @Override
+	    public List<String> consultarSimilaridsId(int productId) {
+	        try{
+	        String similarProductIdsUrl = similarProductsServiceUrl + "/product/" + productId + "/similarids";
+	        ResponseEntity<List<String>> similarProductIdsResponse = restTemplate.exchange(similarProductIdsUrl,
+	                HttpMethod.GET, null, new ParameterizedTypeReference<List<String>>(){});
+
+	            return similarProductIdsResponse.getBody();
+	        }catch(Exception e){
+	            
+	            return null;
+	        }
+	    }
+
+	    @Override
+	    public Product consultarProducto(int productId) {
+
+	        try {
+	            ResponseEntity<Product> response = restTemplate.getForEntity(productDetailsServiceUrl + productId, Product.class);
+	            return response.getBody();
+	        }catch  (Exception e) {
+	            
+	            return null;
+	        }
+
+	    }
+}

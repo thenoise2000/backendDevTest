@@ -1,0 +1,31 @@
+package com.MyAplication.service;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Collectors;
+
+import com.MyAplication.Utils.Urls;
+import com.MyAplication.convert.Convert;
+import com.MyAplication.error.ProductException;
+import com.MyAplication.model.Product;
+
+import org.springframework.stereotype.Service;
+import org.springframework.web.client.RestTemplate;
+
+@Service
+public class ProductService {
+
+	
+	private ExternalApiClient externalApiClient;
+
+   
+    public SimilarProductsServiceImpl(ExternalApiClient externalApiClient) {
+        this.externalApiClient = externalApiClient;
+    }
+
+   
+    public List<Product> getSimilarProducts(String productId) throws ProductException {
+        List<String> similarProductIds = externalApiClient.getSimilarProductIds(productId);
+        return similarProductIds.stream().map(externalApiClient::getProductDetail).collect(Collectors.toList());
+    }
+}

@@ -1,0 +1,46 @@
+package com.MyAplication.service;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Collectors;
+
+import com.MyAplication.Utils.Urls;
+import com.MyAplication.convert.Convert;
+import com.MyAplication.error.ProductException;
+import com.MyAplication.model.Product;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.web.client.RestTemplate;
+
+import lombok.RequiredArgsConstructor;
+import lombok.extern.slf4j.Slf4j;
+
+@Slf4j
+@Service
+@RequiredArgsConstructor
+public class ProductService implements ProductServiceInterface {
+
+	
+	    @Autowired
+	    private final ProductExternal productsExternal;
+
+	    
+	    public List<Product> getProductSim(String productId) {
+
+	        if( productId == null) return null;
+
+	        String[] similarProductsIds =  productsExternal.getProductByIds(productId);
+	        if( similarProductsIds == null) return null;
+
+	        List<Product> products = new ArrayList<>();
+	        for (String id : similarProductsIds) {
+	           Product product = productsExternal.getProductById(id);
+	           if( product != null) {
+	               products.add(product);
+	           }
+	        }
+
+	        return products;
+	    }
+}
